@@ -1,0 +1,62 @@
+[
+  {
+    "content_id": "82970a65-7230-4519-9553-a9f603de7143",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-29T03:15:50.019846+00:00",
+    "attribution": "likely_human",
+    "confidence": 0.2,
+    "llm_score": 0.2,
+    "style_score": null,
+    "label": "pending",
+    "status": "classified",
+    "event_type": "classification"
+  },
+  {
+    "content_id": "0f8ec017-9f96-4b38-8d1a-fcafc903ea22",
+    "creator_id": "test-ai",
+    "timestamp": "2026-06-29T03:30:31.499776+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.6897,
+    "llm_score": 0.8,
+    "style_score": 0.5242,
+    "label": "pending",
+    "status": "classified",
+    "event_type": "classification"
+  },
+  {
+    "content_id": "c0f11795-11d5-402c-b2b8-8ed64962fbb9",
+    "creator_id": "test-human",
+    "timestamp": "2026-06-29T03:33:49.208169+00:00",
+    "attribution": "likely_human",
+    "confidence": 0.314,
+    "llm_score": 0.2,
+    "style_score": 0.485,
+    "label": "pending",
+    "status": "classified",
+    "event_type": "classification"
+  },
+  {
+    "content_id": "4945c419-dccd-431f-ad21-656e46435b9e",
+    "creator_id": "test-borderline-1",
+    "timestamp": "2026-06-29T03:35:48.062771+00:00",
+    "attribution": "likely_human",
+    "confidence": 0.4519,
+    "llm_score": 0.4,
+    "style_score": 0.5298,
+    "label": "pending",
+    "status": "classified",
+    "event_type": "classification"
+  },
+  {
+    "content_id": "8c48e18b-9675-469b-84d3-24a5b96ff00b",
+    "creator_id": "test-borderline-2",
+    "timestamp": "2026-06-29T03:41:39.381354+00:00",
+    "attribution": "likely_human",
+    "confidence": 0.3338,
+    "llm_score": 0.2,
+    "style_score": 0.5345,
+    "label": "pending",
+    "status": "classified",
+    "event_type": "classification"
+  }
+]
